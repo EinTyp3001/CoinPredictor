@@ -9,3 +9,5 @@ step 4: test-mode, let it save the results and make comparison every 24h. let it
 step 5: evaluate. 
 
 lets go. 
+
+sidenote, i have a programming IQ of approximately 65. 
